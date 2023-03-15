@@ -10632,7 +10632,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O5240 || OSM || Pondeswaram - Kilkondaiyur Road || Thiruvallur || Ambathur || 0 || 8 || 8 || 
 |-
-| O5241 || OSM || Pondur  Road || Chengalpattu || Madurandhagam || 0 || 3 || 3 || 
+| O5241 || {{relation|15521649}} || Pondur  Road || Chengalpattu || Madurandhagam || 0 || 3 || 3 || 
 |-
 | O5242 || OSM || Pondur - Vilangadu Road || Chengalpattu || Madurandhagam || 0 || 3 || 3 || 
 |-
