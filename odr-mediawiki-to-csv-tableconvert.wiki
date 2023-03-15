@@ -11659,7 +11659,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O5750 || OSM || Road branching at Km 6/2 of Udumalpet - Palladam  road to Ayyampalayam || Dharapuram || Madathukulam || 0 || 1.8 || 1.8 || 
 |-
-| O5751 || OSM || Road branching at Km 6/8 of Uthiramerur - Kammalampoondi - Acharapakkam Road and joining at Km 11/6 of Vedanthangal Road || Kanchipuram || Uthiramerur || 0 || 9.8 || 9.8 || 
+| O5751 || {{relation|15525935}} || Road branching at Km 6/8 of Uthiramerur - Kammalampoondi - Acharapakkam Road and joining at Km 11/6 of Vedanthangal Road || Kanchipuram || Uthiramerur || 0 || 9.8 || 9.8 || 
 |-
 | O5752 || OSM || Road branching at Km 7/0 of Udumalpet-Chinnar  road to  Pallapalayam || Dharapuram || Udumalaipettai || 0 || 1.4 || 1.4 || 
 |-
