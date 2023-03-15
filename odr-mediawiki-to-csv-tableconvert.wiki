@@ -15455,7 +15455,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O7630 || OSM || Vedanattham - Duraisamypuram  Road || Thoothukudi || Ottapidaram || 0 || 3.8 || 3.8 || 
 |-
-| O7631 || OSM || Vedanthangal - Chithrakoodam Road || Kanchipuram || Uthiramerur || 0 || 1.6 || 1.6 || 
+| O7631 || {{relation|15525936}} || Vedanthangal - Chithrakoodam Road || Kanchipuram || Uthiramerur || 0 || 1.6 || 1.6 || 
 |-
 | O7632 || OSM || Vedanthavadi - Boodamangalam road to Vairaperiyankuppam road || Tiruvannamalai || Tiruvannamalai || 0 || 0.4 || 0.4 || 
 |-
