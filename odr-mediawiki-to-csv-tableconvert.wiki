@@ -15445,7 +15445,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O7625 || OSM || VCC Road to Singalandhapuram (Via)Patchal Road || Namakkal || Rasipuram || 0 || 8 || 8 || 
 |-
-| O7627 || OSM || Vedal - Kappaivakkam Road || Chengalpattu || Madurandhagam || 0 || 4.2 || 4.2 || 
+| O7627 || {{relation|15544316}} || Vedal - Kappaivakkam Road || Chengalpattu || Madurandhagam || 0 || 4.2 || 4.2 || 
 |-
 | O7628 || OSM || Vedal road to Desur - Vadakkupattu road (via) Magamai Thirumani || Cheyyar || Vandavasi || 0 || 3.8 || 3.8 || 
 |-
