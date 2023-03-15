@@ -8346,7 +8346,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O4122 || OSM || Murappanadu - Chennalpatti  Road at Km 1/40 - 2/60 || Thoothukudi || Srivaikundam || 1.4 || 2 || 0.6 || 
 |-
-| O4123 || OSM || Murugambakkam Road || Chengalpattu || Madurandhagam || 0 || 3.8 || 3.8 || 
+| O4123 || {{relation|15523806}} || Murugambakkam Road || Chengalpattu || Madurandhagam || 0 || 3.8 || 3.8 || 
 |-
 | O4124 || OSM || Muruganeri road branching from Km 3/0 of Subbulapuram - Sengulam road || Madurai || Peraiyur || 0 || 1.6 || 1.6 || 
 |-
