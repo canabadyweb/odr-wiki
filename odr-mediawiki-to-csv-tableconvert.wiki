@@ -9429,7 +9429,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O4647 || OSM || Padalam - Cheyyur Road to Ammanoor Cart Track Road || Chengalpattu || Madurandhagam || 0 || 2.87 || 2.87 || 
 |-
-| O4648 || OSM || Padalam - Cheyyur Road to Neelamangalam Easur Road || Chengalpattu || Madurandhagam || 0 || 6.7 || 6.7 || 
+| O4648 || {{relation|15523802}} || Padalam - Cheyyur Road to Neelamangalam Easur Road || Chengalpattu || Madurandhagam || 0 || 6.7 || 6.7 || 
 |-
 | O4649 || OSM || Padanthalumoodu - Madichel Road km 0/0 - 1/4 || Nagercoil || Kuzhithurai || 0 || 1.4 || 1.4 || 
 |-
