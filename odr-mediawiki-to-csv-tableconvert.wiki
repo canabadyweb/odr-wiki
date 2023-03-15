@@ -8685,7 +8685,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O4286 || OSM || Nallur - Kakkanoor road via Sevaganapalli || Krishnagiri || Hosur || 0 || 12.8 || 12.8 || 
 |-
-| O4287 || OSM || Nallur - Karumbakkam Road || Chengalpattu || Madurandhagam || 0 || 4 || 4 || 
+| O4287 || {{relation|15544317}} || Nallur - Karumbakkam Road || Chengalpattu || Madurandhagam || 0 || 4 || 4 || 
 |-
 | O4288 || OSM || Nallur - Kovilvazhi road km 0/0 - 3/8 || Tiruppur || Tiruppur South || 0 || 3.8 || 3.8 || 
 |-
