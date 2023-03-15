@@ -11623,7 +11623,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O5732 || OSM || Road branching at km 30/4 of Oddanchatram - Dharapuram  road to Koneripatty Arisanacolony || Dharapuram || Dharapuram || 0 || 1.4 || 1.4 || 
 |-
-| O5733 || OSM || Road branching at Km 30/6 of Maduranthagam - Vennangupattu road to Villivakkam Colony Road || Chengalpattu || Madurandhagam || 0 || 2.44 || 2.44 || 
+| O5733 || {{relation|15521640}} || Road branching at Km 30/6 of Maduranthagam - Vennangupattu road to Villivakkam Colony Road || Chengalpattu || Madurandhagam || 0 || 2.44 || 2.44 || 
 |-
 | O5734 || OSM || Road branching at km 33/0 of Udumalpet - Dharapuram  road to join at km 4/2 of Dharapuram - Alangiyam  road (via) Thirumalaipalayam. || Dharapuram || Dharapuram || 1.6 || 2.4 || 0.8 || 
 |-
