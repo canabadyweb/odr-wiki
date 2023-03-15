@@ -11617,7 +11617,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O5729 || OSM || Road branching at Km 28/8 of Pollachi - Dharapuram - Karur  road to Poolavadi || Dharapuram || Madathukulam || 0 || 6.6 || 6.6 || 
 |-
-| O5730 || OSM || Road branching at Km 3/2 of  Vennangupattu - Panaiyur road to Puduthottam Road || Chengalpattu || Madurandhagam || 0 || 2.2 || 2.2 || 
+| O5730 || {{relation|15544321}} || Road branching at Km 3/2 of  Vennangupattu - Panaiyur road to Puduthottam Road || Chengalpattu || Madurandhagam || 0 || 2.2 || 2.2 || 
 |-
 | O5731 || OSM || Road branching at Km 3/4 of Udumalpet -  Elayamuthur  road   to Km 8/6 of Udumalpet - Chinnar  road (via) Alampalayam || Dharapuram || Madathukulam || 0 || 5.2 || 5.2 || 
 |-
