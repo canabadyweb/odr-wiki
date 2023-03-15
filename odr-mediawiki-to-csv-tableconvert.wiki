@@ -15764,7 +15764,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O7791 || {{relation|15559645}} || Vennangupattu - Panaiyur  Road || Chengalpattu || Madurandhagam || 11.8 || 13 || 1.2 || 
 |-
-| O7792 || OSM || Vennangupattu - Panaiyur road to Karumbakkam Road || Chengalpattu || Madurandhagam || 0 || 1.2 || 1.2 || 
+| O7792 || {{relation|15544318}} || Vennangupattu - Panaiyur road to Karumbakkam Road || Chengalpattu || Madurandhagam || 0 || 1.2 || 1.2 || 
 |-
 | O7793 || OSM || Vennar - Vettar regulator head to Palliyagraharam road || Thanjavur || Tiruvaiyar || 0 || 9.2 || 9.2 || 
 |-
