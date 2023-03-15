@@ -11575,7 +11575,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O5708 || OSM || Road branching at Km 13/4 of Udumalpet - Senjerihills road to  Alamarathur || Dharapuram || Udumalaipettai || 0 || 1.8 || 1.8 || 
 |-
-| O5709 || OSM || Road branching at Km 14/6 of Cheyyur - Vandavasi Villivakkam Road to Surakuppam Road || Chengalpattu || Madurandhagam || 0 || 1.95 || 1.95 || 
+| O5709 || {{relation|15521653}} || Road branching at Km 14/6 of Cheyyur - Vandavasi Villivakkam Road to Surakuppam Road || Chengalpattu || Madurandhagam || 0 || 1.95 || 1.95 || 
 |-
 | O5710 || OSM || Road branching at Km 14/8 of Periapatti - Negamam road to Nanjegoundanpudur || Dharapuram || Udumalaipettai || 0 || 1.8 || 1.8 || 
 |-
