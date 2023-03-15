@@ -17627,7 +17627,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O8783 || OSM || A.K. Road to M.C.B Road (Via) Ammankulam Road || Kanchipuram || Kanchipuram || 0 || 2.5 || 2.5 || 
 |-
-| O8784 || OSM || Chitharakudam - Pettai Road || Kanchipuram || Uthiramerur || 0 || 2.4 || 2.4 || 
+| O8784 || {{relation|15584225}} || Chitharakudam - Pettai Road || Kanchipuram || Uthiramerur || 0 || 2.4 || 2.4 || 
 |-
 | O8785 || OSM || O.A  Road to Kongarai road || Chengalpattu || Madurandhagam || 0 || 2.3 || 2.3 || 
 |-
