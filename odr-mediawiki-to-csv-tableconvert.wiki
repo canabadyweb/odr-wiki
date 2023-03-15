@@ -6863,7 +6863,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O3377 || OSM || Landakottai - Madhukkarai Road (via) Salampatti || Palani || Vedasandur || 0 || 1.8 || 1.8 || 
 |-
-| O3378 || OSM || Lathur Road || Chengalpattu || Madurandhagam || 0 || 2 || 2 || 
+| O3378 || {{relation|15588917}} || Lathur Road || Chengalpattu || Madurandhagam || 0 || 2 || 2 || 
 |-
 | O3379 || OSM || Lathur Union Road || Chengalpattu || Madurandhagam || 2 || 2.4 || 0.4 || 
 |-
