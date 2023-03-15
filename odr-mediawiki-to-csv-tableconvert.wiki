@@ -10634,7 +10634,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O5241 || {{relation|15521649}} || Pondur  Road || Chengalpattu || Madurandhagam || 0 || 3 || 3 || 
 |-
-| O5242 || OSM || Pondur - Vilangadu Road || Chengalpattu || Madurandhagam || 0 || 3 || 3 || 
+| O5242 || {{relation|15521650}} || Pondur - Vilangadu Road || Chengalpattu || Madurandhagam || 0 || 3 || 3 || 
 |-
 | O5243 || OSM || Pondy - Krishnagir road to Paliyapattu road || Tiruvannamalai || Chengam || 0 || 2.6 || 2.6 || 
 |-
