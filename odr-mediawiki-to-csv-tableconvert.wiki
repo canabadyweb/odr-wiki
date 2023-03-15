@@ -15696,7 +15696,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O7755 || OSM || Vembanoor - Chenapalli road || Nagercoil || Nagercoil || 1 || 3 || 2 || 
 |-
-| O7756 || OSM || Vembanoor - Kadapakkam - Kasippattai Road || Chengalpattu || Madurandhagam || 0 || 1.66 || 1.66 || 
+| O7756 || {{relation|15544320}} || Vembanoor - Kadapakkam - Kasippattai Road || Chengalpattu || Madurandhagam || 0 || 1.66 || 1.66 || 
 |-
 | O7757 || OSM || Vembarpatti Village Road || Dindigul || Natham || 0 || 2.2 || 2.2 || 
 |-
