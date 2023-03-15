@@ -10080,7 +10080,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O4967 || OSM || Pavoorchatram - Vellakkal - Surandai road to Idaiyarthavanai - Meenachipuram road || Tenkasi || Tenkasi || 0 || 2.2 || 2.2 || 
 |-
-| O4968 || OSM || Pavunjur - Anaicut Road || Chengalpattu || Madurandhagam || 0 || 8.8 || 8.8 || 
+| O4968 || {{relation|15533127}} || Pavunjur - Anaicut Road || Chengalpattu || Madurandhagam || 0 || 8.8 || 8.8 || 
 |-
 | O4969 || OSM || Payamariyanendal - Ammapattinam road || Pudukkottai || Avudayarkoil || 0 || 9.2 || 9.2 || 
 |-
