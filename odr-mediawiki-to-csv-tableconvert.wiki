@@ -6865,7 +6865,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O3378 || {{relation|15588917}} || Lathur Road || Chengalpattu || Madurandhagam || 0 || 2 || 2 || 
 |-
-| O3379 || OSM || Lathur Union Road || Chengalpattu || Madurandhagam || 2 || 2.4 || 0.4 || 
+| O3379 || {{relation|15588918}} || Lathur Union Road || Chengalpattu || Madurandhagam || 2 || 2.4 || 0.4 || 
 |-
 | O3380 || OSM || Lathuvadi - Kanavaipatty -  Periyapatti Road || Namakkal || Namakkal || 0 || 4.7 || 4.7 || 
 |-
