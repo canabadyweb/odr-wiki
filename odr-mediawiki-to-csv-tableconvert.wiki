@@ -13586,7 +13586,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O6707 || OSM || Thandarai road || Tiruvannamalai || Tiruvannamalai || 0 || 1.15 || 1.15 || 
 |-
-| O6708 || OSM || Thandarapettai - Kozhiyalam Road || Kanchipuram || Uthiramerur || 2.2 || 3.6 || 1.4 || 
+| O6708 || {{relation|15541231}} || Thandarapettai - Kozhiyalam Road || Kanchipuram || Uthiramerur || 2.2 || 3.6 || 1.4 || 
 |-
 | O6709 || OSM || Thandavagkulam Periavaguppu road || Myladuthurai || Sirgazhi || 0 || 1.6 || 1.6 || 
 |-
