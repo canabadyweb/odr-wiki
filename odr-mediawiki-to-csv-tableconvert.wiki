@@ -13728,7 +13728,7 @@ List of Other district roads in Tamil Nadu (as of March 2019). <ref>{{cite web |
 |-
 | O6781 || OSM || Theertham - Berigai road to Pannapalli road || Krishnagiri || Hosur || 0.8 || 2 || 1.2 || 
 |-
-| O6782 || OSM || Theetalam Village Road || Kanchipuram || Uthiramerur || 0 || 2.24 || 2.24 || 
+| O6782 || {{relation|15541232}} || Theetalam Village Road || Kanchipuram || Uthiramerur || 0 || 2.24 || 2.24 || 
 |-
 | O6783 || OSM || Theethandapattu - Valasai road || Tiruvannamalai || Chengam || 0 || 2.1 || 2.1 || 
 |-
